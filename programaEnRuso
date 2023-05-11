@@ -1,0 +1,7 @@
+public class Пример {
+    public static void main(String[] args) {
+        // Это комментарий на русском языке
+        String строка = "Это строка на русском языке";
+        System.out.println(строка);
+    }
+}
